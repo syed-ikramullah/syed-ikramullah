@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @syed-ikramullah. I am a bachelor's student currently enrolled in University of Central Punjab specializing in BS Computer Science.
+- 👀 I’m interested in learning various programming languages.
+- 🌱 I’m currently learning C++ and python programming languages at a time. C++ at my university and python by my own.
+- 📫 iksyed71@gmail.com
